@@ -1,0 +1,18 @@
+title:            Visual Thinking Design Patterns
+description:      VTDP Reference
+url:              http://visualthinkingdesign.com
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+
+links:
+  - name:         About the Book
+    url:          /about.html
+  - name:         About the Author
+    url:          /author.html
+  - name:         How to Cite
+    url:          /how-to-cite.html
+permalink:        /:categories/:title/
+markdown:         kramdown
+
+# Local serving settings
+host: localhost
+port: 4000
