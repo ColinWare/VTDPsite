@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id='container'>
+      {% include toc.html %}
+        <article class='post'>
+          <h1 class="upcase">
+            {{ page.title }}
+          </h1>
+          {{ content }}
+
+        </article>
+
+      {% if page.disqus == 'y' %}
+        {% include disqus.html %}
+      {% endif %}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

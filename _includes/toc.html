@@ -1,0 +1,24 @@
+<aside class="toc">
+  <ul>
+    <li>
+      Patterns
+      <ul>
+      {% for post in site.posts %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+      {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</aside>
+
+<script charset="utf-8">
+  var toc = $('aside.toc');
+  var tocTop = toc.offset().top;
+  $(window).on('scroll', function() {
+    if ($(window).scrollTop() > tocTop - 20) {
+      toc.offset({top: $(window).scrollTop() + 20});
+    } else {
+      toc.offset({top: tocTop});
+    }
+  });
+</script>
