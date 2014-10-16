@@ -4,12 +4,11 @@ url:              http://visualthinkingdesign.com
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 
 links:
-  - name:         About the Book
+  - name:         About 
     url:          /about.html
-  - name:         About the Author
+  - name:        Contact
     url:          /author.html
-  - name:         How to Cite
-    url:          /how-to-cite.html
+
 permalink:        /:categories/:title/
 markdown:         kramdown
 
