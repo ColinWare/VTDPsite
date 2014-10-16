@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drill Down"
+title: "VTDP: Reasoning with a Hybrid of Mental and External Imagery"
 ---
 
 Almost all visual thinking is a process of reasoning where external imagery in combined with mental imagery. Mental imagery is used to represent alternative interpretations or possible additions to an external visualization. Visual queries are executed on the combined external/internal image.
