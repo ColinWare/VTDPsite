@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drill Down"
+title: "VTDP: Drill Down"
 ---
 
  In data visualization “drilling down” is the name given to the epistemic
@@ -8,12 +8,12 @@ action whereby more information is obtained about a symbolically displayed
 entity (Shneiderman called this "details on demand"[^1]).
 
 **Example:** a real estate map with symbols representing houses for sale. The
-ser clicks on a symbol to get details of the listing. Drill down is useful in
-lmost all visualizations. In cases where there are many symbols on a screen
-t is important that symbols represent as much information scent as possible
-therwise the analyst may have to drill down and view a great deal of
-rrelevant information. Scent consists of a set of graphical attributes or
-ords that represent a summary of the information referenced by the symbol.
+user clicks on a symbol to get details of the listing. Drill down is useful in
+almost all visualizations. In cases where there are many symbols on a screen
+it is important that symbols represent as much information scent as possible
+otherwise the analyst may have to drill down and view a great deal of
+irrelevant information. Scent consists of a set of graphical attributes or
+words that represent a summary of the information referenced by the symbol.
 
 ### The Drill Down Process
 
