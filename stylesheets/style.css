@@ -180,10 +180,8 @@ article.post {
     text-transform: uppercase;
     text-align: center;
     line-height: 1.5em;
-    margin-bottom: 30px; }
-    article.post h1 .date {
-      color: #d0d0d0;
-      font-size: 10px; }
+    margin-bottom: 30px;
+    color: #992222; }
 
 aside.toc {
   -webkit-box-sizing: border-box;
