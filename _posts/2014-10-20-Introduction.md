@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: "An Introduction to VTDPs"
 ---
+
 We all think visually, some of the time. For the most part we are unaware that we are visual thinking, as in the case that we thread our way through a crowded room, or when we arrange groups of chopped vegetables and other ingredients on a countertop in preparing to cook a complicated dish.  Graphic designers may think consciously of design decisions, analyzing which combination of colors and forms most clearly conveys the required information, but they are in the minority.
 
 We also use visualizations as thinking tools. Many people who work creatively, construct rough and ready sketches, which are often unintelligible to anyone else, that somehow help them organize their thoughts. Those abstract squiggles hint at different ways of partitioning physical space or the space of ideas or even both together.
