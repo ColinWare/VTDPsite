@@ -14,12 +14,14 @@ The term monitoring is used for a set of tasks where an operator is responsible 
 ### The monitoring process
 
 
-*Display environment: A monitoring panel with various graphical entitites reprenting system variables.
-1. *Set up a cognitive self interrupt schedule. *
-2. *When an internal cognitive interrupt occurs, break off from other tasks, save mental state of other tasks. Load monitoring cognitive strategies, and task relevant visual queries . *
-3. *Scan display with eye movements executing visual queries appropriate to each display element . *
-4. *For actionable patterns found, take required action . *
-5. *If no actionable items, partially save cognitive monitoring information and return to other tasks. *
+*Display environment: A monitoring panel with various graphical entities representing system variables.*
+
+1. *Set up a cognitive self interrupt schedule.*
+2. *When an internal cognitive interrupt occurs, break off from other tasks, save mental state of other tasks. Load monitoring cognitive strategies, and task relevant visual queries .*
+3. *Scan display with eye movements executing visual queries appropriate to each display element.*
+4. *For actionable patterns found, take required action .*
+5. *If no actionable items, partially save cognitive monitoring information and return to other tasks.*
+
 ------
 
 ### Characteristics of Monitoring
