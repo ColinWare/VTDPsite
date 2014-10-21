@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: "VTDP: Sensemaking"
 ---
@@ -8,9 +8,9 @@ Sensemaking is a term applied to the overall process of analysis only parts of w
 
 ![Sensemaking process: Pirolli and Card](/images/pirolli_card.jpg)
 
-The first loop which puts data in a “shoebox” is sometimes called data wrangling or data munging or data marshalling. (see VTDP Data Assessment). 
+The first loop which puts data in a "shoebox" is sometimes called data wrangling or data munging or data marshalling. (see VTDP Data Assessment). 
 
-This exists in larger scale foraging loop involving ”processes aimed at seeking information, searching and filtering it, and reading and extracting information” [^1]. 
+This exists in larger scale foraging loop involving processes aimed at seeking information, searching and filtering it, and reading and extracting information [^1]. 
 
 The second big loop is sensemaking itself and this has the goal of developing in the mind of the analyst a mental model that accounts for the evidence and applies it to some analytic problem. Most of the VTDPs describe methods that apply to the second loop. However, the major insights leading to an analytic breakthrough are as likely to occur when driving to work or even during sleep (this is not fanciful, many studies show that the brain reorganizes information during sleep). The VTDPs presented here, for the most part, enable the analyst to efficiently find out what is important in the data relative to some specific analytic task, supporting of efficient pattern search, and small scale hypothesis testing. Rarely is a major insight likely to occur during detailed analysis, but detailed analysis is usually a prerequisite for major insights to occur.
 

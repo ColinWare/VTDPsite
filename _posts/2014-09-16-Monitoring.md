@@ -1,9 +1,8 @@
----
+﻿---
 layout: post
 title: "VTDP: Monitoring"
 ---
  
-
 The term monitoring is used for a set of tasks where an operator is responsible for maintaining a level of awareness of some system, or situation. Monitoring has been studied extensively for the design of control room displays, used with power distribution networks, factory processes, and controls for complex vehicles such as aircraft. Monitoring panels called information dashboards are increasingly used in business. The use of monitoring in visual analytics may require a more flexible, dynamic approach since what is being monitored will more frequently than for these other applications. 
 
 **Example 1:** A business executive uses a dashboard display check recent sales figures by region and aspects of the supply pipeline. 
