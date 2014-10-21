@@ -1,6 +1,6 @@
 ﻿---
-layout post
-title "An Introduction to VTDPs"
+layout: post
+title: "An Introduction to VTDPs"
 ---
 We all think visually, some of the time. For the most part we are unaware that we are visual thinking, as in the case that we thread our way through a crowded room, or when we arrange groups of chopped vegetables and other ingredients on a countertop in preparing to cook a complicated dish.  Graphic designers may think consciously of design decisions, analyzing which combination of colors and forms most clearly conveys the required information, but they are in the minority.
 
