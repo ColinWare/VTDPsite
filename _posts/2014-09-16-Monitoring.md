@@ -20,6 +20,7 @@ Display environment: A monitoring panel with various graphical entitites reprent
 4.For actionable patterns found, take required action . 
 5. If no actionable items, partially save cognitive monitoring information and return to other tasks. 
 *
+------
 
 ### Characteristics of Monitoring
 
