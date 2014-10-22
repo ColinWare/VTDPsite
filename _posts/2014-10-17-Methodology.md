@@ -12,12 +12,13 @@ At the start of the design process the team members must establish, in a general
 It is important to know early on in the process what data is available that bears on the cognitive goals, what is readily accessible, and what is likely to be accessible only with time delays.  Sometimes confidentiality can be a stumbling block.  Both the structure of the data and the semantics will be important in defining the visualization.  Data can be enormously varied in its properties, but the following list contains some of the attributes that are likely to appear in any inventory.
 
 **Quantity:**  Very big data requires different approaches beyond what applies to medium or small data. 
-Structure:  E.g. hierarchical, map layers, network, multi-dimensional discreet.
-Time to access:  Sometimes real-time or near real-time is critical.
-Ease of access:  Some data is readily accessible, however, it is also common for data to require new infrastructure, have explicit costs, or have security issues.
+**Structure:**  E.g. hierarchical, map layers, network, multi-dimensional discreet.
+**Time to access:**  Sometimes real-time or near real-time is critical.
+**Ease of access:**  Some data is readily accessible, however, it is also common for data to require new infrastructure, have explicit costs, or have security issues.
 Interrelationships and interdependencies.
-Quality and reliability.
-Potential for derived data products – processing infrastructure.
+**Quality and reliability:**
+**Potential for derived data products processing infrastructure:**
+
 The data inventory process will almost certainly start to blend into step 3, task refinement, because data is only important as it relates to task requirements.
 
 ### Step 3: Refinement of cognitive task requirements
