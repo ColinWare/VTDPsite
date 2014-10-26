@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Introduction to VTDPs"
+title: "Introduction"
 ---
 
 We all think visually, some of the time. For the most part we are unaware that
