@@ -1,5 +1,5 @@
 ---
-post:
+layout: post
 title: "VTDP: Cognitive Reconstruction"
 ---
 
