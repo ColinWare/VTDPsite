@@ -13,6 +13,8 @@ and Katagiri.[^1] They showed people a diagram containing blocks A and B with
 block A above block B. They then told subject to consider the case of block C
 above block A and finally asked "Is block C above or below block B?"
 
+![Reasoning with imaginary blocks](/images/BlockReasoning.gif)
+
 This simple reasoning task could be carried out by purely logical thinking. But
 in fact the subjects solved the problem perceptually they imagined block C above
 A and then "saw" in the combined mental and physical image that A was above B.
@@ -74,6 +76,7 @@ fixed (by erasure or other graphical correction), discard sketch.*
     in the context of existing sketch.*
 6. *Repeat from 5 as needed or discard sketch and begin from 1.*
 
+![Mental imagery is combined with external imagery in reasoning](/images/DesignSketching.gif)
 **Visual semiotic guideline:** Graphical marks should be have an informal
 quality and be amenable to multiple interpretations. Lack of a precise geometric
 shapes has been shown to help.
