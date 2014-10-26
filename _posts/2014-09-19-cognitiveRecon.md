@@ -1,11 +1,11 @@
-﻿---
+---
 post:
 title: "VTDP: Cognitive Reconstruction"
 ---
 
 Most analysts will have their workflow frequently interrupted. They also often need to extend or redo prior analytic work as new data becomes available. Successfully resuming a prior analysis requires that the entire cognitive system be reconstructed and this involves rebuilding both the machine state and the operator state. It is a mistake to think of the human side of this as an operation where information is simply loaded from long term memory. All long term memory is more a process of reconstruction than a process of retrieval.
 
-***Example:** An analyst works on a project for a few hours. Because of a major crisis she is asked to switch tasks for three days. She then returns to first project. 
+**Example:** An analyst works on a project for a few hours. Because of a major crisis she is asked to switch tasks for three days. She then returns to first project. 
 
 ### The cognitive reconstruction process  
 *
