@@ -14,7 +14,6 @@ Sometimes we need to compare details in a large information space such as a high
 Any pattern comparison involves loading some aspect of one pattern into visual working memory, to be later compared to some other pattern.  Pattern comparisons are far more efficient if the transfer of attention between one pattern and another can be made using eye movements, because in this case the information only needs to be held for a fraction of a second. 
 
 ### The process of visual pattern comparisons  
-------------------------------
 1. *Execute an epistemic action by navigating to location of first pattern.*
 2. *Retain subset of first pattern in visual working memory.*
 3. *Execute an epistemic action by navigating to candidate location of a comparison pattern.*
@@ -22,8 +21,6 @@ Any pattern comparison involves loading some aspect of one pattern into visual w
   -  *4.1 If a suitable match is found terminate search.*
   -  *4.2 If a partial match is found,  navigate back and forth between candidate location and master. pattern location loading additional subsets of candidate pattern into visual working memory and making comparison until a suitable match or a mismatch is found.*
 5. *If a mismatch is found repeat* 
-
-------------------------------
 
 ###IMPLEMENTATIONS
 

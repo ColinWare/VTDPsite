@@ -12,7 +12,6 @@ In some data set all entities have the same set of attributes.  The attributes d
 The method has most often been used with scatter plots and to a lesser extent time series plots, but it can work with ranges displayed on maps, and with node link diagrams where restrictions can be placed on the nodes or links.
 
 ### Visual thinking process with dynamic queries
------------------------------------------------------
 
 *Display environment: A display with symbols representing entities drawn from a set of multidimensional discrete data, with a set of controls that restricts the range displayed on each of the data dimensions.*
 
