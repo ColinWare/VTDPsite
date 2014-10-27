@@ -76,11 +76,8 @@ If the data for comparison is a large graph, or a set of large graphs, a form of
 [^1]: Bederson, B. and Hollan, J. (1994). Pad++: A zooming graphical interface for exploring alternate interface physics. Proceedings of UIST "94, ACM, 17-36. 
 [^2]: Carpendale, M. S. T., Cowperthwaite, D. J., & Fracchia, F. D. (1997). Making distortions comprehensible. In Proc IEEE Visual Languages, 36-45.
 [^3]: Plumlee, M. and Ware, C. (2002). Modeling performance for zooming vs multi-window interfaces based on visual working memory. Advanced Visual Interfaces, Trento, Italy, May Proceedings, 59-68. 
-[^4]: Schaffer, D, Zuo, Z, Bartram, L., Dill, D Dubs, S., Greenberg, S. and Roseman, M. (1993). “Comparing fisheye and full-zoom techniques .for navigation of hierarchically clustered networks,” in Proc. Graphics Interface (GI ’93), 87–96.
+[^4]: Schaffer, D, Zuo, Z, Bartram, L., Dill, D Dubs, S., Greenberg, S. and Roseman, M. (1993). Comparing fisheye and full-zoom techniques .for navigation of hierarchically clustered networks, in Proc. Graphics Interface (GI 93), 87-96.
 [^5]: Ware, C. and Lewis, M. (1995). The DragMag image magnifier. CHI '95 Conference Companion and Conference Video Proceedings, ACM, 407-408. 
  
- 
- 
- 
-    Visual Thinking Design Patterns are partially funded by the DARPA XDATA project      
+    
   
