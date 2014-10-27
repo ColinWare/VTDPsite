@@ -19,7 +19,6 @@ achieving this are:
 3. Run an algorithm to automatically detect likely cases of bad data. These are then highlighted in some way, and the operator's task is to push a button to delete set of detected and highlighted data points.
 
 
----------------------------------------
 ###Visual Data Cleaning Process
 *Display Environment: A graphic display containing elements representing data.*
 
