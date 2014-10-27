@@ -22,6 +22,7 @@ Any pattern comparison involves loading some aspect of one pattern into visual w
   -  *4.1 If a suitable match is found terminate search.*
   -  *4.2 If a partial match is found,  navigate back and forth between candidate location and master. pattern location loading additional subsets of candidate pattern into visual working memory and making comparison until a suitable match or a mismatch is found.*
 5. *If a mismatch is found repeat* 
+
 ------------------------------
 
 ###IMPLEMENTATIONS
