@@ -13,7 +13,7 @@ Sometimes we need to compare details in a large information space such as a high
 
 Any pattern comparison involves loading some aspect of one pattern into visual working memory, to be later compared to some other pattern.  Pattern comparisons are far more efficient if the transfer of attention between one pattern and another can be made using eye movements, because in this case the information only needs to be held for a fraction of a second. 
 
-### An overview of the process of visual pattern comparisons  
+### The process of visual pattern comparisons  
 ------------------------------
 1. *Execute an epistemic action by navigating to location of first pattern.*
 2. *Retain subset of first pattern in visual working memory.*
