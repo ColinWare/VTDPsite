@@ -1,5 +1,5 @@
 ---
-format: post
+layout: post
 title: "VTDP: Pattern Comparisons in a Large Information Space" 
 ---
 
@@ -19,8 +19,8 @@ Any pattern comparison involves loading some aspect of one pattern into visual w
 2. *Retain subset of first pattern in visual working memory.*
 3. *Execute an epistemic action by navigating to candidate location of a comparison pattern.*
 4. *Compare working memory pattern with part of pattern at candidate location.*
-    4.1  *If a suitable match is found terminate search.*
-    4.2  *If a partial match is found,  navigate back and forth between candidate location and master.  pattern location loading additional subsets of candidate pattern into visual working memory and making comparison until a suitable match or a mismatch is found.*
+  -  *4.1 If a suitable match is found terminate search.*
+  -  *4.2 If a partial match is found,  navigate back and forth between candidate location and master. pattern location loading additional subsets of candidate pattern into visual working memory and making comparison until a suitable match or a mismatch is found.*
 5. *If a mismatch is found repeat* 
 ------------------------------
 
