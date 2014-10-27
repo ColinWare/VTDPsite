@@ -14,7 +14,7 @@ Sometimes we need to compare details in a large information space such as a high
 Any pattern comparison involves loading some aspect of one pattern into visual working memory, to be later compared to some other pattern.  Pattern comparisons are far more efficient if the transfer of attention between one pattern and another can be made using eye movements, because in this case the information only needs to be held for a fraction of a second. 
 
 ### An overview of the process of visual pattern comparisons  
-```
+------------------------------
 1. *Execute an epistemic action by navigating to location of first pattern.*
 2. *Retain subset of first pattern in visual working memory.*
 3. *Execute an epistemic action by navigating to candidate location of a comparison pattern.*
@@ -22,7 +22,7 @@ Any pattern comparison involves loading some aspect of one pattern into visual w
     4.1  *If a suitable match is found terminate search.*
     4.2  *If a partial match is found,  navigate back and forth between candidate location and master.  pattern location loading additional subsets of candidate pattern into visual working memory and making comparison until a suitable match or a mismatch is found.*
 5. *If a mismatch is found repeat* 
-```
+------------------------------
 
 ###IMPLEMENTATIONS
 
@@ -38,6 +38,7 @@ The simplest and most common implementation of the Pattern Comparisons VTDP is t
 
 Interactive magnifying windows can be attached by the user to focal points on an overview display. The focus of the window can be controlled either by dragging at the focal point. Additionally fine scale movement can be carried out by dragging in the magnifying window itself [^5]. The problem with this solution can be the overhead involved in setting up the extra windows.  If they are frequently needed they should always be present.  There are many tradeoffs in the amount of screen space devoted to magnifying windows and overview and the best design will depend on the specific application.
 
+![Magnifying Windows](/images/GeoZui.jpg)
 
 
 **Use Guideline:** Provide magifying windows when frequent comparisons of detailed areas are needed. These are especially valuable when the patterns to be compared exceed visual working memory capacity.
@@ -50,7 +51,7 @@ Interactive magnifying windows can be attached by the user to focal points on an
 
 Small snapshots saved to a gallery supports side-by-side comparisons of complex patterns using eye movements. This method can be used to enhance zooming alone, or a viewer with magnifying windows. Links back to locations in the larger image can provide context. 
 
-
+![Snapshot gallery](/images/CancerCells.jpg)
 
 **Use Guideline:** Provide snapshot gallery support when frequent comparisons of many detailed areas are needed. 
 
@@ -68,6 +69,7 @@ See also [VTDP: Drill Down, Close out with Heirarchical Aggregation]
 
 If the data for comparison is a large graph, or a set of large graphs, a form of fisheye view can be developed based on the nested structure of the graph. Several different subgraphs can be expanded and thereby compared. In the intelligent zoom method [^4] regions not expanded are contracted to save space. There are limitations on the complexity of the sub graphs that will inevitably limit comparisons. At the time of writing these limitations have not been quantified. 
 
+![Fisheye Graph](/images/fisheye_graph.png)
 
 **Guidelines:** To be determined 
 
