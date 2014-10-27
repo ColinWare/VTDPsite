@@ -37,7 +37,4 @@ The method has most often been used with scatter plots and to a lesser extent ti
 
  
 
- 
-
- 	 	Visual Thinking Design Patterns are partially funded by the DARPA XDAPA project	 	 
  	 	 	 	 
