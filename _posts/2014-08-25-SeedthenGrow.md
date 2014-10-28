@@ -1,5 +1,5 @@
 ﻿---
-format: post
+layout: post
 title: "VTDP: Seed then Grow" 
 ---
 
