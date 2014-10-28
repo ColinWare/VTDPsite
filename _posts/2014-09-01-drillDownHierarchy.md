@@ -42,6 +42,7 @@ In many big data applications it is not possible to show all entities at once, s
 ###Aggregation methods 
 
 It is essential that aggregate objects contain and display useful information.  In general it is best if the aggregations takes advantage of some inherent structure of the data.
+
 **Consolidation principle 1:** Statistical summary:  Aggregate objects can display basic statistical properties of the component: sum, median, average.
 **Consolidation principle 2:** Exceptions: In some monitoring applications the key information relates to the detection of faults. This information can be propagated upward. The user notices exceptions during the visual search and drills down.  
 **Consolidation principle 3:** Temporal Change: In some monitoring applications, any change is of interest.  Change information can be propagated upward.  A change threshold may be involved.  
