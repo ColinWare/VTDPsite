@@ -30,11 +30,10 @@ The example above is from [^2]: Map assessing 2D outliers in a binned scatter pl
 
 Data wrangling of raw network data is still in its infancy, but [^3] provides some additional approaches to the problem.
 
- 
 
 Work needed here on the cognitive processes involved in data wrangling 
 
-References 
+###References 
 [^1]: Kandel, S., Paepcke, A., Hellerstein, J., & Heer, J. (2011, M). Wrangler: Interactive visual specification of data transformation scripts. ACM CHI, 2011, 3363-3372. 
 [^2]: Kandel, S., Parikh, R., Paepcke, A., Hellerstein, J. M., & Heer, J. (2012). Profiler: Integrated statistical analysis and visualization for data quality assessment. In Proceedings of the International Working Conference on Advanced Visual Interfaces. 547-554. ACM. 
 [^3]: Heer, J. and Perer, A. (2011) Orion: A system for modeling, transformation and visualization of multidimensional heterogeneous networks. In Visual Analytics Science and Technology (VAST), 51-60. 
