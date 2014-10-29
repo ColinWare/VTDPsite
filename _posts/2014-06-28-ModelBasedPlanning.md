@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "VTDP: Model-Based Interactive Planning for System Design"
 ---
