@@ -1,13 +1,9 @@
-VTDP: Preliminary Data Assessment and Wrangling 
- 
-Data assessment occurs early in the process of designing and building a new visualization, typically soon after an analytic problem is posed. Usually a new analytic task is first proposed in a very general way,  but it is only once a source of data is identified and it characteristics inventoried that more precise and meaningful analytic questions can be develope.  Sometimes data assessment will lead to the project being dropped. More often, once the nature of the data is known more avenues for analysis are exposed.
 ---
 layout: post
 title: "VTDP: Preliminary Data Assessment and Wrangling"
 --- 
  
 Data assessment occurs early in the process of designing and building a new visualization, typically soon after an analytic problem is posed. Usually a new analytic task is first proposed in a very general way,  but it is only once a source of data is identified and it characteristics inventoried that more precise and meaningful analytic questions can be develope.  Sometimes data assessment will lead to the project being dropped. More often, once the nature of the data is known more avenues for analysis are exposed.
-
 
 **Example:** Initial question: can social media tell us about a flu epidemic?  Data assessment on Twitter data shows, that is publically available, although large amount come at a significant cols. It also reveals that a certain percentage of tweets are georeferenced and that there are approximately 200 million active users world wide. 
 Some of the basic questions about the nature of a data set are the following. 
