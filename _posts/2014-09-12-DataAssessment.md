@@ -21,7 +21,7 @@ Data wrangling is the process of converting data from its raw form into a format
 ![Linear distribution of data values](/images/Oculus_Assess_1.jpg)
 The image above shows an Oculus Tukey plot showing the linear distributions of data values.
 
-![Pairwise distribution of data values](/image/Oculus_2D.jpg)
+![Pairwise distribution of data values](/images/Oculus_2D.jpg)
 The image above shows part of an Oculus Tukey Plot file showing the pairwise distribution of data values. 
 
 
