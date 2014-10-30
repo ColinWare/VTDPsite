@@ -108,7 +108,8 @@ tasks may be revealed.
 
 VTDPs can be used in the evaluation process simply by considering if each in
 turn is applicable to the set of cognitive tasks, and the data to be
-visualized. (more)
+visualized. More information on when different VTDPs are applicable can be found
+[here](/pages/EvalCriteria.html)
 
 ### Step 8: Alpha and beta products
 
