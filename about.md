@@ -1,6 +1,6 @@
 ---
-layout" post
-title: "On the origin of Visual Thinking Design Patterns
+layout: post
+title: "On the origin of Visual Thinking Design Patterns"
 ---
 **Colin Ware**
 
