@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "VTDP: Dynamic Queries"
---- 
+---
 
-In some data set all entities have the same set of attributes.  The attributes define the data dimensions and each entity can be thought of as a point in a multidimensional space. A set of sliders is provided that can narrow the range on each of many attributes. Each slider adjustment is an epistemic action, narrowing the range of what is displayed. 
+In some data set all entities have the same set of attributes.  The attributes define the data dimensions and each entity can be thought of as a point in a multidimensional space. A set of sliders is provided that can narrow the range on each of many attributes. Each slider adjustment is an epistemic action, narrowing the range of what is displayed.
 
 **Example 1:** A database of houses is shown on a map with a symbol for each house. The user adjusts sliders to select the price, number of bedrooms, bathrooms, square footage of living space and distance from the nearest school [^1].
 
@@ -21,6 +21,9 @@ The method has most often been used with scatter plots and to a lesser extent ti
 4. *Otherwise, execute an epistemic action, dragging a slider which causes the computer to adjust a range on a data dimension and display the modified subset of the data.*
 5. *Repeat from 2 until task is successfully completed or abandoned.*
 
+
+<iframe src="http://assets.oculusinfo.com/demos/vtdp/dynamic-queries/index.html" width="750" height="725"></iframe>
+
 ###Dynamic Queries Illustrated with Using Aperture JS
 
 **Implementation Guideline:** Ideally, the update following slider manipulation is very rapid (<100 msec).
@@ -32,8 +35,3 @@ The method has most often been used with scatter plots and to a lesser extent ti
 ### References
 
 [^1]: Ahlberg, C., & Shneiderman, B. (1994, April). Visual information seeking: tight coupling of dynamic query filters with starfield displays. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 313-317). ACM.
- 
-
- 
-
- 	 	 	 	 
