@@ -1,10 +1,9 @@
 title:            Visual Thinking Design Patterns
 description:      VTDP Reference
 url:              http://visualthinkingdesign.com
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 
 links:
-  - name:         About 
+  - name:         About
     url:          /about.html
   - name:        Contact
     url:          /author.html
