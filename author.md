@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Contact"
 ---
 These pages are developed and maintained by Colin Ware
