@@ -15,14 +15,16 @@ otherwise the analyst may have to drill down and view a great deal of
 irrelevant information. Scent consists of a set of graphical attributes or
 words that represent a summary of the information referenced by the symbol.
 
+<iframe src="http://assets.oculusinfo.com/demos/vtdp/drill-down/index.html" width="750" height="725"></iframe>
+
 ### The Drill Down Process
 
 *Display Environment:* Symbols representing data entities, some kind of
 selection device.
 
-1. Conduct a visual search, based on information scent, for most task relevant symbol.
-2. Select symbol.
-3. Computer displays detailed information. Repeat from 1 as task demands.
+1. *Conduct a visual search, based on information scent, for most task relevant symbol.*
+2. *Select symbol.*
+3. *Computer displays detailed information. Repeat from 1 as task demands.*
 
 The marking of previously visited symbols can be done either mentally or by
 using a cognitive externalization, such as checking off symbols that failed to

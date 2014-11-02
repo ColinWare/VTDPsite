@@ -21,7 +21,7 @@ A non-interactive diagram node link diagram is the most common solution with att
 
 In degree of relevance highlighting, [^1] and [^2], touching a node causes near neighbors and their links to become highlighted. A path radius of two or three is used for highlighting obtained through a breadth first search beginning with the selected node. The advantage of this method is that it enables substantially larger graphs to be rapidly explored. The method works with graphs 30 > n > 500. where n is the number of nodes. Also, there can be no high degree nodes. The problem with high degree nodes is that selecting one of them can cause too much of the graph to be highlighted yielding little useable information. 
 
-![ME graph interactive local region highlighting](/images/MEgraph.jpg)
+<iframe src="http://assets.oculusinfo.com/demos/vtdp/local-network-patterns/index.html" width="750" height="725"></iframe>
 
 ###Visual thinking process with degree of relevance hightlighting  
 
